@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonatasfigueira
-- 👀 I’m interested in ...novas oportunidades :D
+- 👀 I’m interested in ... front-end and design web | UX/UI 
 - 🌱 I’m currently learning ...framework js ->  ângular, node e  vue
 - 💞️ I’m looking to collaborate on ... projetos front-end e design ux/ui
 - 📫 How to reach me ...https://behance.net/difigueira  | https://linkedin.com/difigueira
